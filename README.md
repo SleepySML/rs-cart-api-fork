@@ -2,6 +2,11 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
+endpoints:                                                                                                                                                                           
+  ANY - https://t1dnr9teoc.execute-api.eu-west-1.amazonaws.com/dev/
+  ANY - https://t1dnr9teoc.execute-api.eu-west-1.amazonaws.com/dev/{proxy+}
+
+
 [travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
 [travis-url]: https://travis-ci.org/nestjs/nest
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
